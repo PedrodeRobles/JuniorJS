@@ -56,7 +56,6 @@ document.write(`
     ${app1.appInfo()} </br>
     ${app2.appInfo()} </br>
     ${app3.appInfo()} </br>
-
 `)
 
 
